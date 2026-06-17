@@ -1,0 +1,391 @@
+{
+ "type": "FeatureCollection",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.88,
+     -6.106
+    ]
+   },
+   "properties": {
+    "port_id": "PRK",
+    "port_name": "Tanjung Priok",
+    "island": "Jawa",
+    "province": "DKI Jakarta",
+    "region": "Jakarta",
+    "sea_area": "Laut Jawa Barat",
+    "port_class": "Utama",
+    "max_draft_m": 12.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     108.572,
+     -6.708
+    ]
+   },
+   "properties": {
+    "port_id": "CBN",
+    "port_name": "Cirebon",
+    "island": "Jawa",
+    "province": "Jawa Barat",
+    "region": "Cirebon",
+    "sea_area": "Laut Jawa Barat",
+    "port_class": "Pengumpul",
+    "max_draft_m": 7.5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.143,
+     -6.852
+    ]
+   },
+   "properties": {
+    "port_id": "TGL",
+    "port_name": "Tegal",
+    "island": "Jawa",
+    "province": "Jawa Tengah",
+    "region": "Jateng",
+    "sea_area": "Laut Jawa Tengah",
+    "port_class": "Pengumpan",
+    "max_draft_m": 5.5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.428,
+     -6.945
+    ]
+   },
+   "properties": {
+    "port_id": "SMG",
+    "port_name": "Tanjung Emas",
+    "island": "Jawa",
+    "province": "Jawa Tengah",
+    "region": "Jateng",
+    "sea_area": "Laut Jawa Tengah",
+    "port_class": "Utama",
+    "max_draft_m": 10.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.064,
+     -6.89
+    ]
+   },
+   "properties": {
+    "port_id": "TBN",
+    "port_name": "Tuban",
+    "island": "Jawa",
+    "province": "Jawa Timur",
+    "region": "Jatim",
+    "sea_area": "Laut Jawa Timur",
+    "port_class": "Pengumpan",
+    "max_draft_m": 6.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.728,
+     -7.205
+    ]
+   },
+   "properties": {
+    "port_id": "SBY",
+    "port_name": "Tanjung Perak",
+    "island": "Jawa",
+    "province": "Jawa Timur",
+    "region": "Jatim",
+    "sea_area": "Laut Jawa Timur",
+    "port_class": "Utama",
+    "max_draft_m": 11.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.391,
+     -8.143
+    ]
+   },
+   "properties": {
+    "port_id": "KTP",
+    "port_name": "Ketapang",
+    "island": "Jawa",
+    "province": "Jawa Timur",
+    "region": "Jatim",
+    "sea_area": "Selat Bali",
+    "port_class": "Pengumpul",
+    "max_draft_m": 8.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.435,
+     -8.165
+    ]
+   },
+   "properties": {
+    "port_id": "GLM",
+    "port_name": "Gilimanuk",
+    "island": "Bali",
+    "province": "Bali",
+    "region": "Bali",
+    "sea_area": "Selat Bali",
+    "port_class": "Pengumpul",
+    "max_draft_m": 8.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.211,
+     -8.748
+    ]
+   },
+   "properties": {
+    "port_id": "BNO",
+    "port_name": "Benoa",
+    "island": "Bali",
+    "province": "Bali",
+    "region": "Bali",
+    "sea_area": "Selat Bali",
+    "port_class": "Utama",
+    "max_draft_m": 10.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.51,
+     -8.53
+    ]
+   },
+   "properties": {
+    "port_id": "PDB",
+    "port_name": "Padangbai",
+    "island": "Bali",
+    "province": "Bali",
+    "region": "Bali",
+    "sea_area": "Selat Bali",
+    "port_class": "Pengumpul",
+    "max_draft_m": 7.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.008,
+     -5.928
+    ]
+   },
+   "properties": {
+    "port_id": "MRK",
+    "port_name": "Merak",
+    "island": "Jawa",
+    "province": "Banten",
+    "region": "Banten",
+    "sea_area": "Selat Sunda",
+    "port_class": "Utama",
+    "max_draft_m": 9.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     105.752,
+     -5.872
+    ]
+   },
+   "properties": {
+    "port_id": "BKH",
+    "port_name": "Bakauheni",
+    "island": "Sumatera",
+    "province": "Lampung",
+    "region": "Lampung",
+    "sea_area": "Selat Sunda",
+    "port_class": "Utama",
+    "max_draft_m": 9.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     105.32,
+     -5.469
+    ]
+   },
+   "properties": {
+    "port_id": "PJG",
+    "port_name": "Panjang",
+    "island": "Sumatera",
+    "province": "Lampung",
+    "region": "Lampung",
+    "sea_area": "Selat Sunda",
+    "port_class": "Pengumpul",
+    "max_draft_m": 9.5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     104.77,
+     -2.972
+    ]
+   },
+   "properties": {
+    "port_id": "BBR",
+    "port_name": "Boom Baru",
+    "island": "Sumatera",
+    "province": "Sumsel",
+    "region": "Sumsel",
+    "sea_area": "Selat Bangka",
+    "port_class": "Utama",
+    "max_draft_m": 8.5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     104.84,
+     -2.47
+    ]
+   },
+   "properties": {
+    "port_id": "TAA",
+    "port_name": "Tanjung Api-Api",
+    "island": "Sumatera",
+    "province": "Sumsel",
+    "region": "Sumsel",
+    "sea_area": "Selat Bangka",
+    "port_class": "Pengumpul",
+    "max_draft_m": 7.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     101.448,
+     1.666
+    ]
+   },
+   "properties": {
+    "port_id": "DMI",
+    "port_name": "Dumai",
+    "island": "Sumatera",
+    "province": "Riau",
+    "region": "Riau",
+    "sea_area": "Selat Malaka",
+    "port_class": "Utama",
+    "max_draft_m": 11.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     104.01,
+     1.16
+    ]
+   },
+   "properties": {
+    "port_id": "BTM",
+    "port_name": "Batu Ampar",
+    "island": "Sumatera",
+    "province": "Kepri",
+    "region": "Kepri",
+    "sea_area": "Selat Malaka",
+    "port_class": "Utama",
+    "max_draft_m": 10.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     104.45,
+     0.918
+    ]
+   },
+   "properties": {
+    "port_id": "TPI",
+    "port_name": "Tanjung Pinang",
+    "island": "Sumatera",
+    "province": "Kepri",
+    "region": "Kepri",
+    "sea_area": "Selat Malaka",
+    "port_class": "Pengumpul",
+    "max_draft_m": 8.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     98.685,
+     3.79
+    ]
+   },
+   "properties": {
+    "port_id": "BLW",
+    "port_name": "Belawan",
+    "island": "Sumatera",
+    "province": "Sumut",
+    "region": "Sumut",
+    "sea_area": "Selat Malaka",
+    "port_class": "Utama",
+    "max_draft_m": 12.0
+   }
+  }
+ ]
+}

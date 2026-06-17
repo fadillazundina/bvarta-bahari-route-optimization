@@ -1,0 +1,36 @@
+ship_id,ship_name,ship_type,year_built,pax_capacity,vehicle_capacity,cargo_capacity_ton,service_speed_knots,draft_m,max_operating_wave_m,fuel_consumption_lph,daily_crew_cost_idr,status
+KM-01,KM Nusantara,Passenger Ship,2000,1155,0,50,17.4,6.2,3.5,485,10000000,maintenance
+KM-02,KM Bahari,Passenger Ship,2018,1218,0,50,14.5,6.4,3.5,569,8000000,active
+KM-03,KM Samudra,Passenger Ship,2009,902,0,50,15.8,6.5,3.5,578,6000000,active
+KM-04,KM Khatulistiwa,Cargo/RoPax,2015,183,60,400,14.8,5.9,3.0,439,7000000,active
+KM-05,KM Garuda,Passenger Ship,2010,1260,0,50,15.9,6.2,3.5,426,4000000,active
+KM-06,KM Cendrawasih,Passenger Ship,2020,867,0,50,15.3,6.5,3.5,613,7000000,active
+KM-07,KMP Komodo,RoRo Ferry,2012,712,80,0,11.1,4.1,2.5,247,10000000,active
+KM-08,KM Jalesveva,Passenger Ship,2008,597,0,50,17.3,6.4,3.5,455,12000000,active
+KM-09,KM Bintang,Passenger Ship,2018,1137,0,50,14.8,6.7,3.5,413,4000000,active
+KM-10,KM Mutiara,Passenger Ship,2010,777,0,50,15.8,6.2,3.5,568,9000000,active
+KM-11,KM Anak Krakatau,Passenger Ship,1999,1155,0,50,16.3,6.6,3.5,493,11000000,active
+KM-12,KM Wijaya,Fast Ferry,2006,309,0,0,22.2,2.3,1.8,318,8000000,active
+KM-13,KM Lautan,Cargo/RoPax,2019,110,60,400,11.3,5.3,3.0,351,6000000,active
+KM-14,KM Pertiwi,Fast Ferry,2008,251,0,0,27.3,2.8,1.8,409,8000000,active
+KM-15,KMP Dharma,RoRo Ferry,2015,363,80,0,13.6,3.9,2.5,192,8000000,active
+KM-16,KMP Satria,RoRo Ferry,2002,598,80,0,12.2,4.0,2.5,278,7000000,active
+KM-17,KMP Maleo,RoRo Ferry,2006,876,80,0,10.6,4.5,2.5,192,13000000,active
+KM-18,KMP Elang,RoRo Ferry,2004,759,80,0,13.9,4.2,2.5,316,11000000,active
+KM-19,KMP Camar,RoRo Ferry,2015,568,80,0,12.3,4.0,2.5,307,6000000,active
+KM-20,KMP Lumba,RoRo Ferry,2010,578,80,0,13.8,4.1,2.5,300,11000000,active
+KM-21,KM Paus,Fast Ferry,2016,169,0,0,22.7,2.1,1.8,384,8000000,active
+KM-22,KMP Hiu,RoRo Ferry,2002,697,80,0,10.5,3.9,2.5,200,9000000,active
+KM-23,KM Kakap,Fast Ferry,2005,239,0,0,26.7,2.9,1.8,326,4000000,active
+KM-24,KM Tenggiri,Passenger Ship,2014,565,0,50,15.9,6.9,3.5,399,8000000,active
+KM-25,KM Marlin,Fast Ferry,2011,312,0,0,24.7,2.5,1.8,310,9000000,active
+KM-26,KM Tuna,Cargo/RoPax,2005,102,60,400,11.7,5.2,3.0,498,9000000,active
+KM-27,KMP Layang,RoRo Ferry,2021,446,80,0,13.6,3.9,2.5,272,11000000,active
+KM-28,KMP Cakalang,RoRo Ferry,2011,442,80,0,12.8,4.5,2.5,185,7000000,active
+KM-29,KMP Selar,RoRo Ferry,2013,421,80,0,11.5,4.0,2.5,314,9000000,active
+KM-30,KMP Teri,RoRo Ferry,2022,620,80,0,12.2,4.5,2.5,186,13000000,active
+KM-31,KM Bandeng,Cargo/RoPax,2009,167,60,400,13.6,5.7,3.0,497,7000000,active
+KM-32,KMP Gurita,RoRo Ferry,2007,832,80,0,13.7,4.5,2.5,193,6000000,active
+KM-33,KMP Pari,RoRo Ferry,2016,340,80,0,10.8,4.3,2.5,297,5000000,active
+KM-34,KMP Sotong,RoRo Ferry,2006,468,80,0,13.9,4.2,2.5,223,13000000,active
+KM-35,KMP Kerapu,RoRo Ferry,1998,404,80,0,10.7,3.9,2.5,212,10000000,active

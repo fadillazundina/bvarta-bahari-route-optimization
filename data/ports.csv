@@ -1,0 +1,20 @@
+port_id,port_name,island,province,region,sea_area,lat,lon,port_class,max_draft_m
+PRK,Tanjung Priok,Jawa,DKI Jakarta,Jakarta,Laut Jawa Barat,-6.106,106.88,Utama,12.0
+CBN,Cirebon,Jawa,Jawa Barat,Cirebon,Laut Jawa Barat,-6.708,108.572,Pengumpul,7.5
+TGL,Tegal,Jawa,Jawa Tengah,Jateng,Laut Jawa Tengah,-6.852,109.143,Pengumpan,5.5
+SMG,Tanjung Emas,Jawa,Jawa Tengah,Jateng,Laut Jawa Tengah,-6.945,110.428,Utama,10.0
+TBN,Tuban,Jawa,Jawa Timur,Jatim,Laut Jawa Timur,-6.89,112.064,Pengumpan,6.0
+SBY,Tanjung Perak,Jawa,Jawa Timur,Jatim,Laut Jawa Timur,-7.205,112.728,Utama,11.0
+KTP,Ketapang,Jawa,Jawa Timur,Jatim,Selat Bali,-8.143,114.391,Pengumpul,8.0
+GLM,Gilimanuk,Bali,Bali,Bali,Selat Bali,-8.165,114.435,Pengumpul,8.0
+BNO,Benoa,Bali,Bali,Bali,Selat Bali,-8.748,115.211,Utama,10.0
+PDB,Padangbai,Bali,Bali,Bali,Selat Bali,-8.53,115.51,Pengumpul,7.0
+MRK,Merak,Jawa,Banten,Banten,Selat Sunda,-5.928,106.008,Utama,9.0
+BKH,Bakauheni,Sumatera,Lampung,Lampung,Selat Sunda,-5.872,105.752,Utama,9.0
+PJG,Panjang,Sumatera,Lampung,Lampung,Selat Sunda,-5.469,105.32,Pengumpul,9.5
+BBR,Boom Baru,Sumatera,Sumsel,Sumsel,Selat Bangka,-2.972,104.77,Utama,8.5
+TAA,Tanjung Api-Api,Sumatera,Sumsel,Sumsel,Selat Bangka,-2.47,104.84,Pengumpul,7.0
+DMI,Dumai,Sumatera,Riau,Riau,Selat Malaka,1.666,101.448,Utama,11.0
+BTM,Batu Ampar,Sumatera,Kepri,Kepri,Selat Malaka,1.16,104.01,Utama,10.0
+TPI,Tanjung Pinang,Sumatera,Kepri,Kepri,Selat Malaka,0.918,104.45,Pengumpul,8.0
+BLW,Belawan,Sumatera,Sumut,Sumut,Selat Malaka,3.79,98.685,Utama,12.0

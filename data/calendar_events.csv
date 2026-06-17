@@ -1,0 +1,252 @@
+date,event_name,event_type
+2022-06-20,Libur Sekolah,school_holiday
+2022-06-21,Libur Sekolah,school_holiday
+2022-06-22,Libur Sekolah,school_holiday
+2022-06-23,Libur Sekolah,school_holiday
+2022-06-24,Libur Sekolah,school_holiday
+2022-06-25,Libur Sekolah,school_holiday
+2022-06-26,Libur Sekolah,school_holiday
+2022-06-27,Libur Sekolah,school_holiday
+2022-06-28,Libur Sekolah,school_holiday
+2022-06-29,Libur Sekolah,school_holiday
+2022-06-30,Libur Sekolah,school_holiday
+2022-07-01,Libur Sekolah,school_holiday
+2022-07-02,Libur Sekolah,school_holiday
+2022-07-03,Libur Sekolah,school_holiday
+2022-07-04,Libur Sekolah,school_holiday
+2022-07-05,Libur Sekolah,school_holiday
+2022-07-06,Libur Sekolah,school_holiday
+2022-07-07,Libur Sekolah,school_holiday
+2022-07-08,Libur Sekolah,school_holiday
+2022-07-09,Libur Sekolah,school_holiday
+2022-07-10,Libur Sekolah,school_holiday
+2022-07-11,Libur Sekolah,school_holiday
+2022-07-12,Libur Sekolah,school_holiday
+2022-07-13,Libur Sekolah,school_holiday
+2022-07-14,Libur Sekolah,school_holiday
+2022-07-15,Libur Sekolah,school_holiday
+2022-08-17,HUT RI,national_holiday
+2022-10-08,Maulid Nabi,religious
+2022-12-19,Libur Nataru,school_holiday
+2022-12-20,Libur Nataru,school_holiday
+2022-12-21,Libur Nataru,school_holiday
+2022-12-22,Libur Nataru,school_holiday
+2022-12-23,Libur Nataru,school_holiday
+2022-12-24,Libur Nataru,school_holiday
+2022-12-25,Libur Nataru,school_holiday
+2022-12-26,Libur Nataru,school_holiday
+2022-12-27,Libur Nataru,school_holiday
+2022-12-28,Libur Nataru,school_holiday
+2022-12-29,Libur Nataru,school_holiday
+2022-12-30,Libur Nataru,school_holiday
+2022-12-31,Libur Nataru,school_holiday
+2023-01-01,Libur Nataru,school_holiday
+2023-01-02,Libur Nataru,school_holiday
+2023-01-22,Tahun Baru Imlek,national_holiday
+2023-02-18,Isra Miraj,religious
+2023-03-22,Nyepi,national_holiday
+2023-03-23,Ramadan,religious
+2023-03-24,Ramadan,religious
+2023-03-25,Ramadan,religious
+2023-03-26,Ramadan,religious
+2023-03-27,Ramadan,religious
+2023-03-28,Ramadan,religious
+2023-03-29,Ramadan,religious
+2023-03-30,Ramadan,religious
+2023-03-31,Ramadan,religious
+2023-04-01,Ramadan,religious
+2023-04-02,Ramadan,religious
+2023-04-03,Ramadan,religious
+2023-04-04,Ramadan,religious
+2023-04-05,Ramadan,religious
+2023-04-06,Ramadan,religious
+2023-04-07,Ramadan,religious
+2023-04-08,Ramadan,religious
+2023-04-09,Ramadan,religious
+2023-04-10,Ramadan,religious
+2023-04-11,Ramadan,religious
+2023-04-12,Ramadan,religious
+2023-04-13,Ramadan,religious
+2023-04-14,Ramadan,religious
+2023-04-15,Ramadan,religious
+2023-04-16,Ramadan,religious
+2023-04-17,Ramadan,religious
+2023-04-18,Ramadan,religious
+2023-04-19,Ramadan,religious
+2023-04-20,Ramadan,religious
+2023-04-21,Ramadan,religious
+2023-04-22,Idul Fitri (Mudik/Balik),national_holiday
+2023-04-23,Idul Fitri (Mudik/Balik),national_holiday
+2023-04-24,Idul Fitri (Mudik/Balik),national_holiday
+2023-04-25,Idul Fitri (Mudik/Balik),national_holiday
+2023-04-26,Idul Fitri (Mudik/Balik),national_holiday
+2023-05-01,Hari Buruh,national_holiday
+2023-05-18,Kenaikan Isa Almasih,national_holiday
+2023-06-04,Waisak,national_holiday
+2023-06-19,Libur Sekolah,school_holiday
+2023-06-20,Libur Sekolah,school_holiday
+2023-06-21,Libur Sekolah,school_holiday
+2023-06-22,Libur Sekolah,school_holiday
+2023-06-23,Libur Sekolah,school_holiday
+2023-06-24,Libur Sekolah,school_holiday
+2023-06-25,Libur Sekolah,school_holiday
+2023-06-26,Libur Sekolah,school_holiday
+2023-06-27,Libur Sekolah,school_holiday
+2023-06-28,Libur Sekolah,school_holiday
+2023-06-29,Libur Sekolah,school_holiday
+2023-06-30,Libur Sekolah,school_holiday
+2023-07-01,Libur Sekolah,school_holiday
+2023-07-02,Libur Sekolah,school_holiday
+2023-07-03,Libur Sekolah,school_holiday
+2023-07-04,Libur Sekolah,school_holiday
+2023-07-05,Libur Sekolah,school_holiday
+2023-07-06,Libur Sekolah,school_holiday
+2023-07-07,Libur Sekolah,school_holiday
+2023-07-08,Libur Sekolah,school_holiday
+2023-07-09,Libur Sekolah,school_holiday
+2023-07-10,Libur Sekolah,school_holiday
+2023-07-11,Libur Sekolah,school_holiday
+2023-07-12,Libur Sekolah,school_holiday
+2023-07-13,Libur Sekolah,school_holiday
+2023-07-14,Libur Sekolah,school_holiday
+2023-08-17,HUT RI,national_holiday
+2023-09-28,Maulid Nabi,religious
+2023-12-18,Libur Nataru,school_holiday
+2023-12-19,Libur Nataru,school_holiday
+2023-12-20,Libur Nataru,school_holiday
+2023-12-21,Libur Nataru,school_holiday
+2023-12-22,Libur Nataru,school_holiday
+2023-12-23,Libur Nataru,school_holiday
+2023-12-24,Libur Nataru,school_holiday
+2023-12-25,Libur Nataru,school_holiday
+2023-12-26,Libur Nataru,school_holiday
+2023-12-27,Libur Nataru,school_holiday
+2023-12-28,Libur Nataru,school_holiday
+2023-12-29,Libur Nataru,school_holiday
+2023-12-30,Libur Nataru,school_holiday
+2023-12-31,Libur Nataru,school_holiday
+2024-01-01,Libur Nataru,school_holiday
+2024-01-02,Libur Nataru,school_holiday
+2024-02-08,Isra Miraj,religious
+2024-02-10,Tahun Baru Imlek,national_holiday
+2024-03-11,Ramadan,religious
+2024-03-12,Ramadan,religious
+2024-03-13,Ramadan,religious
+2024-03-14,Ramadan,religious
+2024-03-15,Ramadan,religious
+2024-03-16,Ramadan,religious
+2024-03-17,Ramadan,religious
+2024-03-18,Ramadan,religious
+2024-03-19,Ramadan,religious
+2024-03-20,Ramadan,religious
+2024-03-21,Ramadan,religious
+2024-03-22,Ramadan,religious
+2024-03-23,Ramadan,religious
+2024-03-24,Ramadan,religious
+2024-03-25,Ramadan,religious
+2024-03-26,Ramadan,religious
+2024-03-27,Ramadan,religious
+2024-03-28,Ramadan,religious
+2024-03-29,Ramadan,religious
+2024-03-30,Ramadan,religious
+2024-03-31,Ramadan,religious
+2024-04-01,Ramadan,religious
+2024-04-02,Ramadan,religious
+2024-04-03,Ramadan,religious
+2024-04-04,Ramadan,religious
+2024-04-05,Ramadan,religious
+2024-04-06,Ramadan,religious
+2024-04-07,Ramadan,religious
+2024-04-08,Ramadan,religious
+2024-04-09,Ramadan,religious
+2024-04-10,Idul Fitri (Mudik/Balik),national_holiday
+2024-04-11,Idul Fitri (Mudik/Balik),national_holiday
+2024-04-12,Idul Fitri (Mudik/Balik),national_holiday
+2024-04-13,Idul Fitri (Mudik/Balik),national_holiday
+2024-04-14,Idul Fitri (Mudik/Balik),national_holiday
+2024-04-15,Idul Fitri (Mudik/Balik),national_holiday
+2024-04-16,Idul Fitri (Mudik/Balik),national_holiday
+2024-05-01,Hari Buruh,national_holiday
+2024-05-09,Kenaikan Isa Almasih,national_holiday
+2024-05-23,Waisak,national_holiday
+2024-06-17,Idul Adha,national_holiday
+2024-06-24,Libur Sekolah,school_holiday
+2024-06-25,Libur Sekolah,school_holiday
+2024-06-26,Libur Sekolah,school_holiday
+2024-06-27,Libur Sekolah,school_holiday
+2024-06-28,Libur Sekolah,school_holiday
+2024-06-29,Libur Sekolah,school_holiday
+2024-06-30,Libur Sekolah,school_holiday
+2024-07-01,Libur Sekolah,school_holiday
+2024-07-02,Libur Sekolah,school_holiday
+2024-07-03,Libur Sekolah,school_holiday
+2024-07-04,Libur Sekolah,school_holiday
+2024-07-05,Libur Sekolah,school_holiday
+2024-07-06,Libur Sekolah,school_holiday
+2024-07-07,Libur Sekolah,school_holiday
+2024-07-08,Libur Sekolah,school_holiday
+2024-07-09,Libur Sekolah,school_holiday
+2024-07-10,Libur Sekolah,school_holiday
+2024-07-11,Libur Sekolah,school_holiday
+2024-07-12,Libur Sekolah,school_holiday
+2024-07-13,Libur Sekolah,school_holiday
+2024-07-14,Libur Sekolah,school_holiday
+2024-08-17,HUT RI,national_holiday
+2024-09-16,Maulid Nabi,religious
+2024-12-21,Libur Nataru,school_holiday
+2024-12-22,Libur Nataru,school_holiday
+2024-12-23,Libur Nataru,school_holiday
+2024-12-24,Libur Nataru,school_holiday
+2024-12-25,Libur Nataru,school_holiday
+2024-12-26,Libur Nataru,school_holiday
+2024-12-27,Libur Nataru,school_holiday
+2024-12-28,Libur Nataru,school_holiday
+2024-12-29,Libur Nataru,school_holiday
+2024-12-30,Libur Nataru,school_holiday
+2024-12-31,Libur Nataru,school_holiday
+2025-01-01,Libur Nataru,school_holiday
+2025-01-02,Libur Nataru,school_holiday
+2025-01-27,Isra Miraj,religious
+2025-01-29,Tahun Baru Imlek,national_holiday
+2025-03-01,Ramadan,religious
+2025-03-02,Ramadan,religious
+2025-03-03,Ramadan,religious
+2025-03-04,Ramadan,religious
+2025-03-05,Ramadan,religious
+2025-03-06,Ramadan,religious
+2025-03-07,Ramadan,religious
+2025-03-08,Ramadan,religious
+2025-03-09,Ramadan,religious
+2025-03-10,Ramadan,religious
+2025-03-11,Ramadan,religious
+2025-03-12,Ramadan,religious
+2025-03-13,Ramadan,religious
+2025-03-14,Ramadan,religious
+2025-03-15,Ramadan,religious
+2025-03-16,Ramadan,religious
+2025-03-17,Ramadan,religious
+2025-03-18,Ramadan,religious
+2025-03-19,Ramadan,religious
+2025-03-20,Ramadan,religious
+2025-03-21,Ramadan,religious
+2025-03-22,Ramadan,religious
+2025-03-23,Ramadan,religious
+2025-03-24,Ramadan,religious
+2025-03-25,Ramadan,religious
+2025-03-26,Ramadan,religious
+2025-03-27,Ramadan,religious
+2025-03-28,Ramadan,religious
+2025-03-29,Ramadan,religious
+2025-03-30,Ramadan,religious
+2025-03-31,Idul Fitri (Mudik/Balik),national_holiday
+2025-04-01,Idul Fitri (Mudik/Balik),national_holiday
+2025-04-02,Idul Fitri (Mudik/Balik),national_holiday
+2025-04-03,Idul Fitri (Mudik/Balik),national_holiday
+2025-04-04,Idul Fitri (Mudik/Balik),national_holiday
+2025-04-05,Idul Fitri (Mudik/Balik),national_holiday
+2025-04-06,Idul Fitri (Mudik/Balik),national_holiday
+2025-04-07,Idul Fitri (Mudik/Balik),national_holiday
+2025-04-18,Wafat Isa Almasih,national_holiday
+2025-05-01,Hari Buruh,national_holiday
+2025-05-12,Waisak,national_holiday
+2025-05-29,Kenaikan Isa Almasih,national_holiday

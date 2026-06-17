@@ -1,0 +1,20 @@
+station_id,port_id,port_name,lat,lon,sea_area,datum,timezone,sampling
+TG-PRK,PRK,Tanjung Priok,-6.106,106.88,Laut Jawa Barat,LAT (Lowest Astronomical Tide),"Asia/Jakarta (WIB, UTC+7)",hourly
+TG-CBN,CBN,Cirebon,-6.708,108.572,Laut Jawa Barat,LAT (Lowest Astronomical Tide),"Asia/Jakarta (WIB, UTC+7)",hourly
+TG-TGL,TGL,Tegal,-6.852,109.143,Laut Jawa Tengah,LAT (Lowest Astronomical Tide),"Asia/Jakarta (WIB, UTC+7)",hourly
+TG-SMG,SMG,Tanjung Emas,-6.945,110.428,Laut Jawa Tengah,LAT (Lowest Astronomical Tide),"Asia/Jakarta (WIB, UTC+7)",hourly
+TG-TBN,TBN,Tuban,-6.89,112.064,Laut Jawa Timur,LAT (Lowest Astronomical Tide),"Asia/Jakarta (WIB, UTC+7)",hourly
+TG-SBY,SBY,Tanjung Perak,-7.205,112.728,Laut Jawa Timur,LAT (Lowest Astronomical Tide),"Asia/Jakarta (WIB, UTC+7)",hourly
+TG-KTP,KTP,Ketapang,-8.143,114.391,Selat Bali,LAT (Lowest Astronomical Tide),"Asia/Jakarta (WIB, UTC+7)",hourly
+TG-GLM,GLM,Gilimanuk,-8.165,114.435,Selat Bali,LAT (Lowest Astronomical Tide),"Asia/Jakarta (WIB, UTC+7)",hourly
+TG-BNO,BNO,Benoa,-8.748,115.211,Selat Bali,LAT (Lowest Astronomical Tide),"Asia/Jakarta (WIB, UTC+7)",hourly
+TG-PDB,PDB,Padangbai,-8.53,115.51,Selat Bali,LAT (Lowest Astronomical Tide),"Asia/Jakarta (WIB, UTC+7)",hourly
+TG-MRK,MRK,Merak,-5.928,106.008,Selat Sunda,LAT (Lowest Astronomical Tide),"Asia/Jakarta (WIB, UTC+7)",hourly
+TG-BKH,BKH,Bakauheni,-5.872,105.752,Selat Sunda,LAT (Lowest Astronomical Tide),"Asia/Jakarta (WIB, UTC+7)",hourly
+TG-PJG,PJG,Panjang,-5.469,105.32,Selat Sunda,LAT (Lowest Astronomical Tide),"Asia/Jakarta (WIB, UTC+7)",hourly
+TG-BBR,BBR,Boom Baru,-2.972,104.77,Selat Bangka,LAT (Lowest Astronomical Tide),"Asia/Jakarta (WIB, UTC+7)",hourly
+TG-TAA,TAA,Tanjung Api-Api,-2.47,104.84,Selat Bangka,LAT (Lowest Astronomical Tide),"Asia/Jakarta (WIB, UTC+7)",hourly
+TG-DMI,DMI,Dumai,1.666,101.448,Selat Malaka,LAT (Lowest Astronomical Tide),"Asia/Jakarta (WIB, UTC+7)",hourly
+TG-BTM,BTM,Batu Ampar,1.16,104.01,Selat Malaka,LAT (Lowest Astronomical Tide),"Asia/Jakarta (WIB, UTC+7)",hourly
+TG-TPI,TPI,Tanjung Pinang,0.918,104.45,Selat Malaka,LAT (Lowest Astronomical Tide),"Asia/Jakarta (WIB, UTC+7)",hourly
+TG-BLW,BLW,Belawan,3.79,98.685,Selat Malaka,LAT (Lowest Astronomical Tide),"Asia/Jakarta (WIB, UTC+7)",hourly

@@ -1,0 +1,4 @@
+new_route_id,origin_port_id,dest_port_id,distance_nm,forecast_weekly_demand,est_ticket_price_idr,recommended_ship_id,recommended_frequency,est_monthly_revenue_idr,est_monthly_opex_idr,projected_roi_percent
+N01,PRK,MRK,67.74,24600,189218.06,KM-05,20,20155224287.14,3960759820.32,408.87
+N02,PRK,BKH,87.69,21953,244942.41,KM-05,18,23283411349.58,4155412712.58,460.32
+N03,PRK,TGL,181.27,14044,506358.92,KM-32,17,30794063102.87,4474263538.08,588.25
