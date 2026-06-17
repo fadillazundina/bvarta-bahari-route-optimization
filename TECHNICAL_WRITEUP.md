@@ -1,6 +1,6 @@
 # RINGKASAN TEKNIS (TECHNICAL WRITEUP): Bvarta Bahari Route & Fleet Optimization
 
-**Oleh:** Senior Data Scientist  
+**Oleh:** Fadilla Zundina 
 **Proyek:** Optimasi Rute, Alokasi Armada, dan Ekspansi Jaringan (Bvarta Bahari)
 
 Dokumen ini merangkum metodologi analitik, arsitektur pemodelan, asumsi, batasan, serta rekomendasi masa depan yang mendasari keputusan strategis untuk restrukturisasi jaringan pelayaran Bvarta Bahari. Seluruh analisis telah dikerjakan menggunakan kerangka kerja Data Science terstandarisasi mulai dari *Exploratory Data Analysis* (EDA) hingga Pemodelan Regresi Spasial.
